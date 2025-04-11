@@ -10,7 +10,7 @@ The session also emphasized the importance of clarity and organization in dashbo
 For my first Power BI dashboard, I focused on simplicity and readability to deliver insights at a glance. Below is an analysis of the key components of the dashboard and the insights derived from it.
 
 ## 1. Key Performance Indicators (KPIs)
-Total Revenue (2014): $118.73M, with a 7.74% growth compared to the previous month.
+**Total Revenue (2014):** $118.73M, with a 7.74% growth compared to the previous month.
 
 **Total Units Sold (2014):** 1.13M, showing a 6.08% growth.
 
